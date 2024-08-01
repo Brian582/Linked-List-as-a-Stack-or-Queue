@@ -8,7 +8,7 @@ If the linked list is set to 'Queue', it can't use the Stack operations.
 
 The linked list only takes integer elements. Also, the list can be reversed and can calculate the average of the numbers in the list.
 
-Here are the operations for the list.
+Here are the operations for the linked list.
 
 # Operations
 
